@@ -4,7 +4,7 @@ BigBasket Category Performance Diagnostic using SQL, Google Sheets, Tableau, and
 
 View the interactive dashboard here:
 
-[BigBasket Category Performance Dashboard](PASTE_YOUR_TABLEAU_LINK_HERE)
+[BigBasket Category Performance Dashboard](https://public.tableau.com/views/BigBasketCategoryPerformanceDashboard_17890530622800/BigBasketCategoryDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 
